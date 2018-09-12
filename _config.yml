@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Simon Shillaker
-description:      'Welcome to my homepage'
-url:              https://www.doc.ic.ac.uk/~scs17/
-baseurl:          https://www.doc.ic.ac.uk/~scs17/
+description:      "Simon Shillaker's website"
+url:              https://www.simonshillaker.com/
+baseurl:          "" 
 
 author:
-  name:           'Simon Shillaker'
-  url:            https://www.doc.ic.ac.uk/~scs17
+  name:           "Simon Shillaker"
+  url:            https://www.simonshillaker.com/
 
 paginate:         5
 
