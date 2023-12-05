@@ -13,10 +13,11 @@ and sustainability in the cloud computing industry.
 
 Leading the engineering team building Scaleway's [Serverless
 Functions](https://www.scaleway.com/en/serverless-functions/), [Serverless
-Containers](https://www.scaleway.com/en/serverless-containers/), and a couple of
-other exciting serverless projects in the pipeline.
+Containers](https://www.scaleway.com/en/serverless-containers/), and [Serverless
+jobs](https://www.scaleway.com/en/serverless-jobs/), plus a number of open-source tools
+and libraries related to serverless.
 
-*Technologies*: Go, Kubernetes, Knative, WebAssembly.
+*Technologies*: Go, Python, Kubernetes ecosystem.
 
 ### [Imperial College London](https://www.imperial.ac.uk/)
 *2017-2022*
