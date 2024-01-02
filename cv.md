@@ -107,8 +107,8 @@ Bachelor's degree in [physics](https://www.physics.ox.ac.uk/study/undergraduates
 ## Languages
 
 - English (native)
-- French (B2/C1)
+- French (C1)
 
 ## Right to Work
 
-I am a UK national currently living in France.
+I am a UK national living in France.
