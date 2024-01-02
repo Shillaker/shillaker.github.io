@@ -11,10 +11,10 @@ title: CV
 Engineering Manager at European cloud provider focused on improving both choice
 and sustainability in the cloud computing industry.
 
-Leading the engineering team building Scaleway's [Serverless
+I lead the engineering team building Scaleway's [Serverless
 Functions](https://www.scaleway.com/en/serverless-functions/), [Serverless
 Containers](https://www.scaleway.com/en/serverless-containers/), and [Serverless
-jobs](https://www.scaleway.com/en/serverless-jobs/), plus a number of open-source tools
+Jobs](https://www.scaleway.com/en/serverless-jobs/), plus a number of open-source tools
 and libraries related to serverless.
 
 *Technologies*: Go, Python, Kubernetes ecosystem.
@@ -25,9 +25,8 @@ and libraries related to serverless.
 PhD in distributed systems and high-performance serverless computing,
 in the [Large Scale Data and Systems Group](https://lsds.doc.ic.ac.uk/).
 
-During my PhD, I developed, and now maintain,
-[Faasm](https://github.com/faasm/faasm/), a high-performance stateful serverless
-runtime built on WebAssembly.
+During my PhD I developed [Faasm](https://github.com/faasm/faasm/), a
+high-performance stateful serverless runtime built on WebAssembly.
 
 *Publications*: Faasm: Lightweight isolation for efficient stateful serverless
 computing ([ATC
