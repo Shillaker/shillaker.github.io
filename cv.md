@@ -6,12 +6,21 @@ title: CV
 ## Timeline
 
 ### [Scaleway](https://www.scaleway.com/en/)
-*2022-present*
+*2024-present*
 
-Engineering Manager at European cloud provider focused on improving both choice
-and sustainability in the cloud computing industry.
+Tech Lead for the Environmental Footprint team at a European cloud provider.
 
-I lead the engineering team building Scaleway's [Serverless
+I lead the implementation and rollout of tooling and metrics for users and internal teams
+to calculate the environmental impact of their cloud usage.
+
+*Technologies*: Go, Kubernetes ecosystem.
+
+### [Scaleway](https://www.scaleway.com/en/)
+*2022-2024*
+
+Engineering Manager for the Serverless Compute team at a European cloud provider.
+
+I led the engineering teams building Scaleway's [Serverless
 Functions](https://www.scaleway.com/en/serverless-functions/), [Serverless
 Containers](https://www.scaleway.com/en/serverless-containers/), and [Serverless
 Jobs](https://www.scaleway.com/en/serverless-jobs/), plus a number of open-source tools
@@ -42,7 +51,7 @@ Fine-Grained Distribution of Scientific Workloads in the Cloud (under review,
 Advisor to IoT start-up, reducing the environmental impact of the built
 environment.
 
-Since its founding, I've helped develop the company's system architecture, data
+Since its founding, I helped develop the company's system architecture, data
 science function, and technical hiring.
 
 *Technologies*: Python, Tensorflow, DynamoDB, PostgreSQL.
